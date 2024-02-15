@@ -8,7 +8,8 @@
 				"C:/Users/admin/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/HUD.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/get_hurt.uasset",
-				"C:/Users/admin/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/heal.uasset"
+				"C:/Users/admin/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/heal.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/UI/GameOver.uasset"
 			]
 		}
 	]
